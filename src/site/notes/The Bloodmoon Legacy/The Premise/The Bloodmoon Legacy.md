@@ -54,3 +54,10 @@ You are the last generation of legendary vampire-hunting families—your ancesto
 [[The Bloodmoon Legacy/The Premise/Allied NPCs/Members of The Silver Stake/Morgana Delacroix\|Morgana Delacroix]]
 [[The Bloodmoon Legacy/The Premise/Allied NPCs/Members of The Silver Stake/Ravenna Delacroix\|Ravenna Delacroix]]
 
+***Enemies***
+[[The Bloodmoon Legacy/The Premise/Enemies/House Veythorne\|House Veythorne]]
+[[The Bloodmoon Legacy/The Premise/Enemies/House Noctrel\|House Noctrel]]
+[[The Bloodmoon Legacy/The Premise/Enemies/House Varkareth\|House Varkareth]]
+[[The Bloodmoon Legacy/The Premise/Enemies/House Mortovekh\|House Mortovekh]]
+[[The Bloodmoon Legacy/The Premise/Enemies/House Draeven\|House Draeven]]
+
