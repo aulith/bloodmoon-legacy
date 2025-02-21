@@ -30,7 +30,7 @@ You are the last generation of legendary vampire-hunting families—your ancesto
 [[The Bloodmoon Legacy/The Vampire Hunter Families/The Valcrest Family – The Silver Warlords\|The Valcrest Family – The Silver Warlords]]
 
 
-***Factions
+***Factions***
 
 [[The Bloodmoon Legacy/The Vampire Hunter Families/Factions/Allies/The Order of the Silver Stake\|The Order of the Silver Stake]]
 
