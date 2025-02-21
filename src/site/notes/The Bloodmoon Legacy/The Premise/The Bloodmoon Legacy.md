@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-bloodmoon-legacy/the-premise/the-bloodmoon-legacy/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-bloodmoon-legacy/the-premise/the-bloodmoon-legacy/"}
 ---
 
 ![Pasted image 20250221130758.png](/img/user/Pasted%20image%2020250221130758.png)
